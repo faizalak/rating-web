@@ -30,11 +30,11 @@
     "url-loader": "^0.5.9",
     "vue-loader": "^13.0.0",
     "vue-style-loader": "^3.0.1",
-    "vue-template-compiler": "2.6.10",
+    "vue-template-compiler": "^2.6.10",
     "webpack": "^3.12.0",
     "webpack-dev-server": "^2.5.0",
     "node-gyp": "*",
-    "npm": "8.12.2"
+    "npm": "^8.12.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.1",
