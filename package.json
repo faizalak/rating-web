@@ -33,7 +33,8 @@
     "vue-template-compiler": "2.6.10",
     "webpack": "^3.12.0",
     "webpack-dev-server": "^2.5.0",
-    "node-gyp": "*"
+    "node-gyp": "*",
+    "npm": "*"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.1",
